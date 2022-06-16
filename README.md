@@ -97,7 +97,7 @@ cd kontribusi-pertama
    ![Compare and Pull Request](images/pull-request.png)
 
 
-14. Langkah terakhir adalah submit `Pull Request` mu
+14. Langkah terakhir adalah submit `Pull Request` mu dengan menekan tombol `Create pull request`
 
    ![Create Pull Request](images/create-pull-request.png)
 
