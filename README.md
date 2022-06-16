@@ -92,7 +92,7 @@ cd kontribusi-pertama
    ![Push Changes](images/push-branch.png)
 
 
-13. Kembali ke `github` dan untuk melakukan proses `Pull Request`
+13. Kembali ke `github` untuk melakukan proses `Pull Request`
 
    ![Compare and Pull Request](images/pull-request.png)
 
