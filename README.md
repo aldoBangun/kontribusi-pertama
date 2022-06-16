@@ -102,6 +102,9 @@ cd kontribusi-pertama
    ![Create Pull Request](images/create-pull-request.png)
 
 
+15. Selesai.
+
+
 ### Catatan
 
 Setelah melakukan proses `pull request`, perubahan yang sudah ditambahkan kamu akan direview dan akan ditambahkan oleh pemilik asli repository. Setelah di review dan ditambakan oleh pemilik asli repository maka perubahan sudah dapat dilihat di repository aslinya. 
